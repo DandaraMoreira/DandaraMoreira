@@ -4,11 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/DandaraMoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DandaraMoreira&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaraMoreira&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DandaraMoreira&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaraMoreira&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
-
-<h2>Estudando: </h2>
+ <h2>Estudando: </h2>
  <div style="display: inline_block"><br>
   <img align="center" alt="Dandara-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Dandara-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,7 +18,7 @@
   <a href="https://picasion.com/"> <img align="right"src="https://i.picasion.com/pic92/3d897278b161e6c2dce3af4760aace8f.gif" height="150" border="0" alt="Dandara-Gif" /></a>
  </div>
 
-<h2>Ferramentas: </h2>
+ <h2>Ferramentas: </h2>
  <div style="display: inline_block"><br>
   <img align="center" alt="Dandara-VSCode"src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt="Dandara-Windows"src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -34,9 +33,9 @@
    <a href = "mailto:dandara.depaulo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/dandaramoreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/dandarablue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
+   ![Snake animation](https://github.com/DandaraMoreira/DandaraMoreira/blob/output/github-contribution-grid-snake.svg)
  </div>
-  
-![Snake animation](https://github.com/DandaraMoreira/DandaraMoreira/blob/output/github-contribution-grid-snake.svg)
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5865F&height=120&section=footer"/>
 
