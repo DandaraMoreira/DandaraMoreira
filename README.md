@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/DandaraMoreira">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DandaraMoreira&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaraMoreira&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DandaraMoreira&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandaraMoreira&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
  <h2>Estudando: </h2>
  <div style="display: inline_block"><br>
